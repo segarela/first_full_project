@@ -1,0 +1,23 @@
+{
+  "name": "first_full_project",
+  "version": "1.0.0",
+  "description": "",
+  "source": "index.html",
+  "scripts": {
+    "sass:watch": "sass --style=expanded --watch styles:dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/segarela/first_full_project.git"
+  },
+  "author": "Sergey Eliseev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/segarela/first_full_project/issues"
+  },
+  "homepage": "https://github.com/segarela/first_full_project#readme",
+  "devDependencies": {
+    "parcel": "^2.16.4",
+    "sass": "^1.101.0"
+  }
+}
